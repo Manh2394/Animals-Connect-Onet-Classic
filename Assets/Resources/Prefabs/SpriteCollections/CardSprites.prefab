@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &174978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 485240}
+  - component: {fileID: 11419712}
+  m_Layer: 0
+  m_Name: CardSprites
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &485240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174978}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.06790994, y: 0.54208297, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11419712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3575563c061c64000a6d7d69c241ce93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: ab8a9d1426ea9344ba335cf6af7509dd, type: 3}
+  - {fileID: 21300000, guid: 7f1b39514e5c2da48a10cb0f9e33fdda, type: 3}
+  - {fileID: 21300000, guid: bb110d1259bd3614387eb5eff2015d9a, type: 3}
+  - {fileID: 21300000, guid: 1c569d07e60b7ee44a5bde32fc253c2d, type: 3}
+  - {fileID: 21300000, guid: ea6cfcde1646c234fa623f834c2c0118, type: 3}
+  - {fileID: 21300000, guid: ea0bd114b6bd3f74f8e8f7f743d7bfaa, type: 3}
+  - {fileID: 21300000, guid: c057519ceab7cbb4999a0581f7d30688, type: 3}
+  - {fileID: 21300000, guid: d6ebffe4ea5da4847b97c169e58dc3a3, type: 3}
+  - {fileID: 21300000, guid: cdec3df66f2d2a04c886e4c3c1c8f582, type: 3}
+  - {fileID: 21300000, guid: 442b77013221edb4bbfab0b773191589, type: 3}
+  - {fileID: 21300000, guid: a731bbf370461444b94e3fc787d2a010, type: 3}
+  - {fileID: 21300000, guid: 8853b0e2173727b4a8f1ae6a0363b456, type: 3}
+  - {fileID: 21300000, guid: 58208e745ce373e4584f49a3fe5f3b5d, type: 3}
+  - {fileID: 21300000, guid: b7d58c8193995154cb3c21c695a8580e, type: 3}
+  - {fileID: 21300000, guid: 404f2f99f2a239a47ae6cd96993a88a5, type: 3}
+  - {fileID: 21300000, guid: 927627bf9855eca45a7b281b063b9f9d, type: 3}
+  - {fileID: 21300000, guid: ecd3e195b43eaa2448be6f2dd46b525e, type: 3}
+  - {fileID: 21300000, guid: fe3fc53f20ec2b844a47f9d3bfd88526, type: 3}
+  - {fileID: 21300000, guid: 844128e00affbbf488a7d113d6b706cf, type: 3}
+  - {fileID: 21300000, guid: 62798ce7aa5ff1f49a59f48d5fad8e54, type: 3}
+  - {fileID: 21300000, guid: 53ac71e437cc3854fbab0a463f074632, type: 3}
+  - {fileID: 21300000, guid: 34640370ea947454d9b5ee88547ab79b, type: 3}
+  - {fileID: 21300000, guid: 807a17dc6f531e84da210b32fe5b9bfb, type: 3}
+  - {fileID: 21300000, guid: b651218f454ef384cbe0ca8b268939ca, type: 3}
+  - {fileID: 21300000, guid: 48c0bba284d7c554e975efd67adcc2e7, type: 3}
+  - {fileID: 21300000, guid: f1ebcab9896192244bcf1ebf73621a44, type: 3}
+  - {fileID: 21300000, guid: de075b3650237234382fb279c983f065, type: 3}
+  - {fileID: 21300000, guid: 79722a080d0d4d44c82d25930627cd00, type: 3}
+  - {fileID: 21300000, guid: b538324fa62093c4c8b7cf8048df210d, type: 3}
+  - {fileID: 21300000, guid: 97e7974b5b509c44592390e11cf9f1b7, type: 3}
+  - {fileID: 21300000, guid: 8ab8790f122774e43a1ef52d0da25525, type: 3}
+  - {fileID: 21300000, guid: f5c9fcf0101e11849ac2b9359ca6697e, type: 3}
+  collectionName: 
+  folderName: Sprites/Images/item

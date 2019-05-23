@@ -1,0 +1,14 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/lang/common/Characters/Ashe/1005_effup.tpsheet
+- Assets/Sprites/lang/common/Characters/Ashe/1005_role.tpsheet
+- Assets/Sprites/lang/common/Characters/Ashe/ashe_AWQil_effup.tpsheet
+textureFileNames:
+- Assets/Sprites/lang/common/Characters/Ashe/1005_effup.png
+- Assets/Sprites/lang/common/Characters/Ashe/1005_role.png
+- Assets/Sprites/lang/common/Characters/Ashe/ashe_AWQil_effup.png
+normalmapFileNames:
+- 
+- 
+- 

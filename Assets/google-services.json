@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "41071759411",
+    "firebase_url": "https://cfk-game.firebaseio.com",
+    "project_id": "cfk-game",
+    "storage_bucket": "cfk-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41071759411:android:2529d83fd0483d7a",
+        "android_client_info": {
+          "package_name": "com.cfgamestudio.stickman.archer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41071759411-n5hjqpb9s8splkp14u8n4fq0kajq1e1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvjMI3WdObmPsKLigbfV0ebxB0DuVXOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41071759411-n5hjqpb9s8splkp14u8n4fq0kajq1e1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41071759411-d9fitr9epcdimk950cj2g71spc6i7bg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cfkcorp.game.animal.connect.classic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41071759411:android:7bbdf5d8b9c04233",
+        "android_client_info": {
+          "package_name": "com.cfkcorp.game.animal.connect.classic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41071759411-n5hjqpb9s8splkp14u8n4fq0kajq1e1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvjMI3WdObmPsKLigbfV0ebxB0DuVXOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41071759411-n5hjqpb9s8splkp14u8n4fq0kajq1e1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41071759411-d9fitr9epcdimk950cj2g71spc6i7bg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cfkcorp.game.animal.connect.classic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

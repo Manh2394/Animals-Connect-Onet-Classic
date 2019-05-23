@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://cfk-game.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">41071759411</string>
+  <string name="google_storage_bucket" translatable="false">cfk-game.appspot.com</string>
+  <string name="project_id" translatable="false">cfk-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyBpvjMI3WdObmPsKLigbfV0ebxB0DuVXOU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpvjMI3WdObmPsKLigbfV0ebxB0DuVXOU</string>
+  <string name="google_app_id" translatable="false">1:41071759411:android:7bbdf5d8b9c04233</string>
+  <string name="default_web_client_id" translatable="false">41071759411-n5hjqpb9s8splkp14u8n4fq0kajq1e1j.apps.googleusercontent.com</string>
+</resources>

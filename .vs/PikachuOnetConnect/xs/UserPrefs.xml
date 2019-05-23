@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{38EE7FB4-7C7A-283B-5B3B-87DE3DF0CB9C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scenes/GameScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameMode/GameManager.cs" Line="381" Column="31" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ads/Media.cs" Line="160" Column="29" />
+      <File FileName="Assets/Scripts/MapUI.cs" Line="418" Column="34" />
+      <File FileName="Assets/Scripts/HomeScene.cs" Line="110" Column="42" />
+      <File FileName="Assets/Scripts/Ads/UnityMainThreadDispatcher.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameMode/TimeModeManager.cs" Line="12" Column="27" />
+      <File FileName="Assets/Scripts/UI/List/ThemeItem.cs" Line="37" Column="27" />
+      <File FileName="Assets/Scripts/UI/YesNoPopup.cs" Line="16" Column="45" />
+      <File FileName="Assets/Scripts/UI/HUD1.cs" Line="43" Column="17" />
+      <File FileName="Assets/Scripts/UI/PausePopup.cs" Line="25" Column="219" />
+      <File FileName="Assets/Scripts/UI/LosePopup.cs" Line="11" Column="9" />
+      <File FileName="Assets/Scripts/Scenes/TimeModeScene.cs" Line="6" Column="35" />
+      <File FileName="Assets/Scripts/Scenes/GameScene.cs" Line="7" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

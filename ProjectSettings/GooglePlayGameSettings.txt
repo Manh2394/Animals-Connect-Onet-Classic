@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=598982843614
+and.BundleId=onet.connect.animal.pikachu
+proj.classDir=Assets
+proj.ConstantsClassName=GPGConsts
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e598982843614%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3eonet.connect.animal.pikachu%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_pikachu_onet_connect%22%3eCgkI3rmjsbcREAIQCQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_pikachu_onet_connect_1%22%3eCgkI3rmjsbcREAIQCg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_pikachu_onet_connect_2%22%3eCgkI3rmjsbcREAIQCw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_pikachu_onet_connect_3%22%3eCgkI3rmjsbcREAIQDA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_pikachu_onet_connect_4%22%3eCgkI3rmjsbcREAIQDQ%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_survival_mode_normal%22%3eCgkI3rmjsbcREAIQAA%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_survival_mode_hard%22%3eCgkI3rmjsbcREAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_time_mode_normal%22%3eCgkI3rmjsbcREAIQAg%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_time_mode_hard%22%3eCgkI3rmjsbcREAIQAw%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_leisure_mode_hard%22%3eCgkI3rmjsbcREAIQBA%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_leisure_mode_normal%22%3eCgkI3rmjsbcREAIQBQ%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_challenge_mode_hard%22%3eCgkI3rmjsbcREAIQBg%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_challenge_mode_normal%22%3eCgkI3rmjsbcREAIQBw%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
